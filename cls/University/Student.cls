@@ -10,6 +10,9 @@ Property StudentID As %String;
 /// Enrollment Date
 Property EnrollmentDate As %Date;
 
+/// City
+Property City As %String;
+
 /// Method to display student information
 Method DisplayInfo() As %String
 {

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "smart:TEST",
+			"uri": "isfs://smart:test/"
+		}
+	],
+	"settings": {}
+}

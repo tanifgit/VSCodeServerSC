@@ -13,6 +13,9 @@ Property EnrollmentDate As %Date;
 /// City
 Property City As %String;
 
+/// Country
+Property Country As %String;
+
 /// Method to display student information
 Method DisplayInfo() As %String
 {
